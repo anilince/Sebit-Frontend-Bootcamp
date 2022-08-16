@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="form-group">
+        <label>Yüzde</label>
+        <input class="form-control" type="text" (input)="onPercentChange($event.target.value)">
+      </div>
+
+    </div>
+    <div class="col-md-6">
+      <label><b>Yüzde</b></label>
+      <div>
+        {{ percent | percent:'1.2-3'}}
+      </div>
+    </div>
+  </div>
+</div>
