@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "author": "asdasdas",
+      "title": "sdassdasd",
+      "content": "aasdasdas",
+      "comments": [],
+      "id": 1
+    },
+    {
+      "author": "canboz",
+      "title": "Test",
+      "content": "Test Datası",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "author": "Test3",
+      "title": "Test3",
+      "content": "Test3 Data",
+      "comments": [],
+      "id": 3
+    }
+  ]
+}

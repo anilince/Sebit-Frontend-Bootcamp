@@ -1,0 +1,9 @@
+.author {
+  font-weight: 700;
+}
+
+.formField {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
